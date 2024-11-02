@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://eputouqi.github.io/EQo/sitemap_index.txt
+Sitemap: https://eputouqi.github.io/KeF/sitemap_index.txt
+Sitemap: https://eputouqi.github.io/ajQ/sitemap_index.txt
+Sitemap: https://eputouqi.github.io/iZh/sitemap_index.txt
